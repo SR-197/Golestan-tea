@@ -1309,6 +1309,14 @@ video {
     background-image: url(/src/images/recipe-baner-1.png);
   }
 
+  .mobile\:bg-\[url\(\'\.\/src\/images\/insta\.png\'\)\] {
+    background-image: url('./src/images/insta.png');
+  }
+
+  .mobile\:bg-\[url\(\'\.\/src\/images\/telegra\.png\'\)\] {
+    background-image: url('./src/images/telegra.png');
+  }
+
   .mobile\:from-\[\#F9F9F9\] {
     --tw-gradient-from: #F9F9F9 var(--tw-gradient-from-position);
     --tw-gradient-to: rgb(249 249 249 / 0) var(--tw-gradient-to-position);
@@ -2547,6 +2555,22 @@ video {
     background-image: url(/src/images/recipe-baner-1.png);
   }
 
+  .desktop\:bg-\[url\(\'\.\/src\/images\/insta\.png\'\)\] {
+    background-image: url('./src/images/insta.png');
+  }
+
+  .desktop\:bg-\[url\(\'\.\/src\/images\/telegra\.png\'\)\] {
+    background-image: url('./src/images/telegra.png');
+  }
+
+  .desktop\:bg-\[url\(\.\/src\/images\/recipe-baner-1\.png\)\] {
+    background-image: url(./src/images/recipe-baner-1.png);
+  }
+
+  .desktop\:bg-\[url\(\'\'\.\/src\/images\/recipe-baner-1\.png\)\] {
+    background-image: url(''./src/images/recipe-baner-1.png);
+  }
+
   .desktop\:from-\[\#F9F9F9\] {
     --tw-gradient-from: #F9F9F9 var(--tw-gradient-from-position);
     --tw-gradient-to: rgb(249 249 249 / 0) var(--tw-gradient-to-position);
@@ -2978,6 +3002,14 @@ video {
 
   .desktop\:hover\:bg-\[url\(\/src\/images\/icon1-1\.png\)\]:hover {
     background-image: url(/src/images/icon1-1.png);
+  }
+
+  .desktop\:hover\:bg-\[url\(\'\.\/src\/images\/icon2-1\.png\'\)\]:hover {
+    background-image: url('./src/images/icon2-1.png');
+  }
+
+  .desktop\:hover\:bg-\[url\(\'\.\/src\/images\/icon3-1-1\.png\'\)\]:hover {
+    background-image: url('./src/images/icon3-1-1.png');
   }
 
   .desktop\:hover\:text-white:hover {
