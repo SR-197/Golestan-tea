@@ -1709,6 +1709,26 @@ video {
     right: 11rem;
   }
 
+  .desktop\:right-40 {
+    right: 10rem;
+  }
+
+  .desktop\:right-\[\] {
+    right: ;
+  }
+
+  .desktop\:right-\[162px\] {
+    right: 162px;
+  }
+
+  .desktop\:right-\[168px\] {
+    right: 168px;
+  }
+
+  .desktop\:right-\[160px\] {
+    right: 160px;
+  }
+
   .desktop\:z-10 {
     z-index: 10;
   }
@@ -1811,6 +1831,22 @@ video {
 
   .desktop\:mt-\[70px\] {
     margin-top: 70px;
+  }
+
+  .desktop\:mr-\[\%\] {
+    margin-right: %;
+  }
+
+  .desktop\:mr-\[27\%\] {
+    margin-right: 27%;
+  }
+
+  .desktop\:mr-\[33\%\] {
+    margin-right: 33%;
+  }
+
+  .desktop\:mr-\[32\%\] {
+    margin-right: 32%;
   }
 
   .desktop\:box-border {
