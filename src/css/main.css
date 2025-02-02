@@ -950,6 +950,10 @@ video {
     height: inherit;
   }
 
+  .mobile\:h-auto {
+    height: auto;
+  }
+
   .mobile\:w-\[100\%\] {
     width: 100%;
   }
@@ -1403,6 +1407,38 @@ video {
     padding-top: 60px;
   }
 
+  .mobile\:pb-\[100px\] {
+    padding-bottom: 100px;
+  }
+
+  .mobile\:pb-\[\] {
+    padding-bottom: ;
+  }
+
+  .mobile\:pb-\[40px\] {
+    padding-bottom: 40px;
+  }
+
+  .mobile\:pb-\[85px\] {
+    padding-bottom: 85px;
+  }
+
+  .mobile\:pb-\[105px\] {
+    padding-bottom: 105px;
+  }
+
+  .mobile\:pb-\[45px\] {
+    padding-bottom: 45px;
+  }
+
+  .mobile\:pb-\[20px\] {
+    padding-bottom: 20px;
+  }
+
+  .mobile\:pb-\[10px\] {
+    padding-bottom: 10px;
+  }
+
   .mobile\:text-center {
     text-align: center;
   }
@@ -1673,12 +1709,12 @@ video {
     right: 50%;
   }
 
-  .desktop\:right-36 {
-    right: 9rem;
-  }
-
   .desktop\:right-80 {
     right: 20rem;
+  }
+
+  .desktop\:right-\[168px\] {
+    right: 168px;
   }
 
   .desktop\:top-0 {
@@ -1699,34 +1735,6 @@ video {
 
   .desktop\:top-\[-10\] {
     top: -10;
-  }
-
-  .desktop\:right-4 {
-    right: 1rem;
-  }
-
-  .desktop\:right-44 {
-    right: 11rem;
-  }
-
-  .desktop\:right-40 {
-    right: 10rem;
-  }
-
-  .desktop\:right-\[\] {
-    right: ;
-  }
-
-  .desktop\:right-\[162px\] {
-    right: 162px;
-  }
-
-  .desktop\:right-\[168px\] {
-    right: 168px;
-  }
-
-  .desktop\:right-\[160px\] {
-    right: 160px;
   }
 
   .desktop\:z-10 {
@@ -1753,8 +1761,8 @@ video {
     margin-right: 20px;
   }
 
-  .desktop\:mr-\[30\%\] {
-    margin-right: 30%;
+  .desktop\:mr-\[32\%\] {
+    margin-right: 32%;
   }
 
   .desktop\:mr-\[40px\] {
@@ -1831,22 +1839,6 @@ video {
 
   .desktop\:mt-\[70px\] {
     margin-top: 70px;
-  }
-
-  .desktop\:mr-\[\%\] {
-    margin-right: %;
-  }
-
-  .desktop\:mr-\[27\%\] {
-    margin-right: 27%;
-  }
-
-  .desktop\:mr-\[33\%\] {
-    margin-right: 33%;
-  }
-
-  .desktop\:mr-\[32\%\] {
-    margin-right: 32%;
   }
 
   .desktop\:box-border {
@@ -2035,6 +2027,14 @@ video {
 
   .desktop\:h-\[inherit\] {
     height: inherit;
+  }
+
+  .desktop\:h-auto {
+    height: auto;
+  }
+
+  .desktop\:h-\[490p\] {
+    height: 490p;
   }
 
   .desktop\:w-\[0\.8px\] {
@@ -2562,6 +2562,30 @@ video {
 
   .desktop\:pt-\[80px\] {
     padding-top: 80px;
+  }
+
+  .desktop\:pb-\[\] {
+    padding-bottom: ;
+  }
+
+  .desktop\:pb-\[75px\] {
+    padding-bottom: 75px;
+  }
+
+  .desktop\:pb-\[80px\] {
+    padding-bottom: 80px;
+  }
+
+  .desktop\:pb-\[33px\] {
+    padding-bottom: 33px;
+  }
+
+  .desktop\:pb-\[100px\] {
+    padding-bottom: 100px;
+  }
+
+  .desktop\:pb-\[105px\] {
+    padding-bottom: 105px;
   }
 
   .desktop\:text-center {
